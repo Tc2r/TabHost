@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tabhost</string>
+    <string name="hosttab_1">Tab 1</string>
+    <string name="hosttab_2">Tab 2</string>
+    <string name="hosttab_1_title">BIOGRAPHY</string>
+    <string name="hosttab_2_title">LINKS</string>
+</resources>
